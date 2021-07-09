@@ -1,0 +1,35 @@
+
+state={
+	id=477
+	name="STATE_477"
+	manpower = 1951460
+	
+	state_category = town
+	
+	resources={
+		oil=9
+	}
+
+	history={
+		owner = NWS
+		buildings = {
+			infrastructure = 6
+			dockyard = 2
+			12810 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = NWS
+		victory_points = {
+			12810 5
+		}
+		victory_points = {
+			8089 10
+		}
+	}
+
+	provinces={
+		8079 8089 10732 12810 
+	}
+	
+}
