@@ -111,6 +111,29 @@ create_country_leader = {
 		
 	}
 }
+
+create_country_leader = {
+	name = "Alf Landon"
+	desc = "ALf!!!"
+	picture = "landon.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Harry Hines Woodring"
+	desc = "harry styles yes yes"
+	picture = "woodring.dds"
+	expire = "1965.1.1"
+	ideology = moderatism
+	traits = {
+		dictator
+	}
+}
+
 1939.1.1 = {
 	set_politics = {
 		ruling_party = neutrality
